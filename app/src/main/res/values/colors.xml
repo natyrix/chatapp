@@ -9,4 +9,5 @@
     <color name='icon_bg'>#20FFFFFF</color>
     <color name='error'>#B00020</color>
     <color name='received_message_bg'>#090d16</color>
+    <color name="online">#008000</color>
 </resources>
